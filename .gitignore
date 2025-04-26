@@ -1,0 +1,42 @@
+# Build results
+bin/
+obj/
+
+# Rider and VS Code directories
+.idea/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+.scaffolding/
+
+# Dotnet-specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Optional: Exclude published outputs
+publish/
+*.pubxml
+*.Publish.xml
+
+# Logs
+*.log
+
+# Npm/Node artifacts (if using frontend tooling like React or Angular)
+node_modules/
+dist/
+
+# Others
+*.db
+*.sqlite
+*.pdb
+
+# OS files
+.DS_Store
+Thumbs.db
